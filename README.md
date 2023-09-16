@@ -121,5 +121,7 @@ Data Layer :
 >>MainForm: This class contains all the labels, textboxes and buttons of the console as well as the validation code applied to these entities
 
 
-
+><h2>How to run the application?</h2>
+Simply download all the files in your local machine.
+Open the "MyBikesFactory.sln" in Visual Studio and run it.
 
