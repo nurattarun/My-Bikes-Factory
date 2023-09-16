@@ -1,0 +1,46 @@
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.AssemblyReference.cache
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.MainForm.resources
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.GenerateResource.cache
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfoInputs.cache
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfo.cs
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CoreCompileInputs.cache
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.LoginForm.resources
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.exe
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.deps.json
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.runtimeconfig.json
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.pdb
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.pdb
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CopyComplete
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.exe
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.deps.json
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.runtimeconfig.json
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.pdb
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.pdb
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.LoginForm.resources
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.MainForm.resources
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CopyComplete
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.genruntimeconfig.cache

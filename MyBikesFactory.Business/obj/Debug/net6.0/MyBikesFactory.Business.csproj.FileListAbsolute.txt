@@ -1,0 +1,24 @@
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.deps.json
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.AssemblyReference.cache
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfoInputs.cache
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfo.cs
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.CoreCompileInputs.cache
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.deps.json
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\Users\Admin\Downloads\Projects\bikefactory\20220420191008_CFinalProject-MyBikesFactory (1)\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "78fb6e50-59be-4707-bd8d-bdeb88d992d1": {
+      "ProjectGuid": "78fb6e50-59be-4707-bd8d-bdeb88d992d1",
+      "DisplayName": "MyBikesFactory.Data",
+      "ColorIndex": 0
+    },
+    "c1902bf5-8335-4f73-bd1c-585bf3b0899b": {
+      "ProjectGuid": "c1902bf5-8335-4f73-bd1c-585bf3b0899b",
+      "DisplayName": "MyBikesFactory.UI",
+      "ColorIndex": 1
+    },
+    "13e74fb7-0a1d-4f15-8ced-f5c9e4eb3575": {
+      "ProjectGuid": "13e74fb7-0a1d-4f15-8ced-f5c9e4eb3575",
+      "DisplayName": "MyBikesFactory.Business",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
