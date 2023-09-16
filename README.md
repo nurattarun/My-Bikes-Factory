@@ -66,23 +66,60 @@ Data Layer :
 
 
 
-***During this project I learned about – ***
-```
+<h1>Classes</h1> 
 
-The structure of different layers involved in the .NET to create a project. 
+ 
 
-The functioning and importance of each layer (data, business, and UI layer) 
+>>EColor:  Contained inside the Enum folder, EColor class contains the list of colors which are to be used by the user while selecting the bike 
 
-About the integration between the different layers  
+ 
 
-The methods used to validate different buttons and fields 
+>>ESuspensionType: Contained inside the Enum folder, ESuspensionType class contains the list of suspension types which are to be used by the user while selecting the bike 
 
-How to serialize data and use XML Data to store and manipulate user data 
+ 
 
-The concepts of abstraction in object-oriented programming approach and inheritance among classes 
+ 
 
-Enumerators and their functionality in implementing a set of options to choose from in order to avoid run time errors  
+>>ETireType: Contained inside the Enum folder, ETireType class contains the list of colors which are to be used by the user while selecting the bike 
 
-Different inbuilt functions and keywords used to in C# to code efficiently 
+ 
 
-```
+ 
+
+>>Bikes: Bikes class contains the list of the attributes which are common to both the bike types 
+
+ 
+
+>>MountainBikes: This class contains the attributes which are exclusive  to the Mountain bike type 
+
+ 
+
+>>RoadBikes: This class contains the attributes which are exclusive only to the Road bike type 
+
+ 
+
+>>User: Contains the attributes password and username required to be put inside the Login Form as a user 
+
+ 
+
+>>Validator: Contains the methods to validate all the buttons, labels and boxed added in the main form so the application does what it has been designed to do 
+
+ 
+
+>>BikesXMLData: Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. XML is often used for application configuration, data storage and exchange. The XmlData represents an XML document. It can be used to load, modify, validate, an navigate XML documents  
+
+ 
+
+>>UserSequentialData: The C# Sequence class is used to manage database fields of type sequence. As sequences are effectively vectors of values, they are accessed through iterators.  
+
+ 
+
+>>LoginForm: This class is used to validate the login credentials entered by the user using the data from the UserSequentialData class 
+
+ 
+
+>>MainForm: This class contains all the labels, textboxes and buttons of the console as well as the validation code applied to these entities
+
+
+
+
